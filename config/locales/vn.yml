@@ -26,3 +26,20 @@ vn:
     link: "ứng dụng mẫu"
   helpers:
     title: "Ruby on Rails Tutorial Sample App"
+  user:
+    success: "Thành công "
+    wellcome: "Chào bạn đến với ứng dụng mẫu"
+    name: "Tên Đăng Nhập:"
+    email: "Email:"
+    password: "Mật Khẩu:"
+    password_confirmation: "Xác thực mật khẩu"
+    signin: "Đăng nhập"
+    create: "Taọ tài khỏan"
+  errors:
+    content: "Có"
+    errors: "lỗi"
+  signup:
+    msg: "Không tìm thấy id: %{id}!"
+    success: "Thành công"
+
+
