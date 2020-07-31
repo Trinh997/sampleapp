@@ -41,3 +41,11 @@ vn:
   signup:
     msg: "Không tìm thấy id: %{id}!"
     success: "Thành công"
+  login:
+    account: "Taì khoản"
+    profile: "Hồ Sơ"
+    settings: "Cài Đặt"
+    logout: "Đăng xuất"
+    error: "Thông tin không chính xác"
+    newuser: "Taọ mới"
+    signup: "Đăng nhập"
