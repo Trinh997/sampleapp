@@ -40,3 +40,11 @@ en:
   signup:
     msg: "Can't find user id: %{id}!"
     success: "success"
+  login:
+    account: "Account"
+    profile: "Profile"
+    settings: "Settings"
+    logout: "Log out"
+    error: "invalid email password combination"
+    newuser: "New User ?"
+    signup: "Sign up now"
