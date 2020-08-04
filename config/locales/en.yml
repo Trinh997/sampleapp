@@ -1,33 +1,50 @@
-# Files in the config/locales directory are used for internationalization
-# and are automatically loaded by Rails. If you want to use locales other
-# than English, add the necessary files in this directory.
-#
-# To use the locales, use `I18n.t`:
-#
-#     I18n.t 'hello'
-#
-# In views, this is aliased to just `t`:
-#
-#     <%= t('hello') %>
-#
-# To use a different locale, set it with `I18n.locale`:
-#
-#     I18n.locale = :es
-#
-# This would use the information in config/locales/es.yml.
-#
-# The following keys must be escaped otherwise they will not be retrieved by
-# the default I18n backend:
-#
-# true, false, on, off, yes, no
-#
-# Instead, surround them with single quotes.
-#
-# en:
-#   'true': 'foo'
-#
-# To learn more, please read the Rails Internationalization guide
-# available at https://guides.rubyonrails.org/i18n.html.
-
 en:
-  hello: "Hello world"
+  home:
+    title: "Home"
+    home_html: "<h1>Well come the Sample App</h1>"
+    detail: "Ruby on Rails Tutorial "
+    wellcome: "Well come the Sample App"
+    page_home: "This is the home page for the"
+    sample_application: " sample application"
+    sample: " sample application."
+    signup: "Sign up now"
+  help:
+    title: "Help"
+    help_html: "<h1>Help</h1>"
+    title: "Ruby on Rails Tutorial Sample App"
+    get: "Get help on the Ruby on Rails Tutorial at the"
+    rails: "Rails Tutorial help page"
+    to: "To get help on this sample app, see the"
+    ruby_html: "<em>Ruby on Rails Tutorial</em>"
+    book: "book."
+    to_html: "To get help on this sample app, see the <em>Ruby on Rails Tutorial</em> book."
+  header:
+    home: "Home"
+    help: "Help"
+    login: "Log In"
+    link: "sample app"
+  helpers:
+    title: "Ruby on Rails Tutorial Sample App"
+  user:
+    success: "success"
+    wellcome: "welcome_to_the_sample_app!"
+    name: "User Name:"
+    email: "Email:"
+    password: "Password:"
+    password_confirmation: "Confirmation:"
+    create: "Create My Acount"
+    errors: "error"
+  errors:
+    content: "The form contains"
+    errors: "errors"
+  signup:
+    msg: "Can't find user id: %{id}!"
+    success: "success"
+  login:
+    account: "Account"
+    profile: "Profile"
+    settings: "Settings"
+    logout: "Log out"
+    error: "invalid email password combination"
+    newuser: "New User ?"
+    signup: "Sign up now"

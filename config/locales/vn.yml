@@ -1,0 +1,51 @@
+vn:
+  home:
+    title: "Trang Chủ"
+    home_html: "<h1>Chào mừng đến với ứng dụng mẫu</h1>"
+    detail: "Hướng dẫn về Ruby on Rails "
+    wellcome: "Well come the Sample App"
+    page_home: "Đây là trang chủ "
+    sample_application: "ứng dụng mẫu."
+    sample: "ứng dụng mẫu."
+    signup: "Đăng kí ngay"
+  help:
+    title: "Trợ giúp"
+    help_html: "<h1>Trợ giúp</h1>"
+    title: "Hướng dẫn ứng dụng mẫu với Ruby on Rails "
+    get: "Để nhận trợ giúp về ứng dụng mẫu này, hãy xem"
+    rails: " Trang chủ Rails Tutorial"
+    to: "Để nhận trợ giúp về ứng dụng mẫu này, hãy xem "
+    ruby_html: "<em>Hướng dẫn Ruby on Rails</em>"
+    book: "Sách."
+    to_html: "Để nhận trợ giúp về ứng dụng mẫu này, hãy xem
+    <em>Hướng dẫn Ruby on Rails </em> Sách."
+  header:
+    home: "Trang Chủ"
+    help: "Trợ Giúp"
+    login: "Đăng nhập"
+    link: "ứng dụng mẫu"
+  helpers:
+    title: "Ruby on Rails Tutorial Sample App"
+  user:
+    success: "Thành công "
+    wellcome: "Chào bạn đến với ứng dụng mẫu"
+    name: "Tên Đăng Nhập:"
+    email: "Email:"
+    password: "Mật Khẩu:"
+    password_confirmation: "Xác thực mật khẩu"
+    signin: "Đăng nhập"
+    create: "Taọ tài khỏan"
+  errors:
+    content: "Có"
+    errors: "lỗi"
+  signup:
+    msg: "Không tìm thấy id: %{id}!"
+    success: "Thành công"
+  login:
+    account: "Taì khoản"
+    profile: "Hồ Sơ"
+    settings: "Cài Đặt"
+    logout: "Đăng xuất"
+    error: "Thông tin không chính xác"
+    newuser: "Taọ mới"
+    signup: "Đăng nhập"
