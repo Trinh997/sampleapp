@@ -49,3 +49,4 @@ vn:
     error: "Thông tin không chính xác"
     newuser: "Taọ mới"
     signup: "Đăng nhập"
+    remember_html: "<span>Lưu mật khẩu</span>"

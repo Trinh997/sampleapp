@@ -48,3 +48,4 @@ en:
     error: "invalid email password combination"
     newuser: "New User ?"
     signup: "Sign up now"
+    remember_html: "<span>Remember me on this computer</span>"
