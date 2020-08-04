@@ -25,3 +25,26 @@ en:
     link: "sample app"
   helpers:
     title: "Ruby on Rails Tutorial Sample App"
+  user:
+    success: "success"
+    wellcome: "welcome_to_the_sample_app!"
+    name: "User Name:"
+    email: "Email:"
+    password: "Password:"
+    password_confirmation: "Confirmation:"
+    create: "Create My Acount"
+    errors: "error"
+  errors:
+    content: "The form contains"
+    errors: "errors"
+  signup:
+    msg: "Can't find user id: %{id}!"
+    success: "success"
+  login:
+    account: "Account"
+    profile: "Profile"
+    settings: "Settings"
+    logout: "Log out"
+    error: "invalid email password combination"
+    newuser: "New User ?"
+    signup: "Sign up now"
