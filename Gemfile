@@ -7,7 +7,7 @@ gem "bootsnap", ">= 1.4.2", require: false
 gem "bootstrap-sass", "3.4.1"
 gem "config"
 gem "jquery-rails", "4.3.1"
-gem "puma", "~> 4.1"
+gem "puma", "~> 4.3"
 gem "rails", "~> 6.0.3", ">= 6.0.3.2"
 gem "sass-rails", ">= 6"
 gem "sqlite3", "~> 1.4"
